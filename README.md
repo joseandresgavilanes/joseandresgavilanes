@@ -2,7 +2,7 @@
 
 
 
-![build: passing](https://img.shields.io/badge/build-passing-success) ![version :08.Oct.2021](https://img.shields.io/badge/version-08.Oct.2021-informational) [![license: feel free to use my repos](https://img.shields.io/badge/license-feel%20free%20to%20use%20my%20repos-success)](https://github.com/SheykoWk) [![website](https://img.shields.io/badge/website-informational)](https://SheykoWk.github.io)
+![build: passing](https://img.shields.io/badge/build-passing-success) ![version :08.Oct.2021](https://img.shields.io/badge/version-08.Oct.2021-informational) [![license: feel free to ask about my repos](https://img.shields.io/badge/license-feel%20free%20to%20use%20my%20repos-success)](https://github.com/SheykoWk) [![website](https://img.shields.io/badge/website-informational)](https://SheykoWk.github.io)
 
 <img src="./static/svg.svg"/>
 <center><img src="./static/logo.svg"></center>
@@ -15,25 +15,26 @@ const aboutMe = {
   code: [Javascript, Typescript, Golang, HTML, CSS, Python],
   technologies: {
     frontEnd: {
-      js: ["Reactjs", "React Native", "Redux", "React Router", "Axios"],
+      js: ["ReactJS", "NextJS", "React Native", "Redux", "React Router", "Axios"],
       css: ["SASS", "Tailwind", "Material UI", "Bootstrap"],
     },
     backEnd: {
       python: ["Django"],
-      js: ["Nodejs", "Express"],
+      js: ["NodeJS", "Expressjs"],
     },
     databases: ["MongoDB", "PostgreSQL"],
   },
-  currentOccupation: ["last year student, open for job opportunities"],
-  challenge: "I'm working every day on learn more and be better.",
+  currentOccupation: ["open for job opportunities"],
+  challenge: "I'm working every day on becoming a better person and programmer.",
   currentLearning: {
-    fullStackWebDevelopment: {
-      frontEnd: "60%",
-      backEnd: "60%",
-      database: "50%",
+    fullStackDevelopment: {
+      frontEnd: "✔",
+      backEnd: "✔",
+      database: "✔",
     },
     cibersecurityAndEthicalHacking: {
-      bashScripting: "60%",
+      bashScripting: ""✔",
+      metasploit: "✔",
     },
   },
 };
@@ -41,7 +42,7 @@ const aboutMe = {
 
 ## Abstract
 
-I'm n aspiring developer who loves to take on new projects that challenges his analytical and technological capacities.
+I'm an aspiring developer who loves to take on new projects that challenges his analytical and technological capacities.
 
 
 - I’m currently learning a bit of cybersecurity and new technologies.
@@ -53,10 +54,10 @@ I'm n aspiring developer who loves to take on new projects that challenges his a
 
 | _Name \ Familiarity_       | High                         | Medium             | Low                            |
 | -------------------------- | ---------------------------- | ------------------ | ------------------------------ |
-| **Languages(programming)** | JavaScript, Bash             | Python, SQL        | Golang, PHP, C, Java, C#       |
-| **Frameworks/Platforms**   | NodeJs, ReactJs              | Git, Redux, Django | VueJs, Angular, Laravel, Unity |
-| **Languages(human)**       | Spanish                      | English            | Russian                        |
-| **Other interests**        | Pentesting, Learning, Guitar | Videogames, Piano  | Hardware, Blockchain           |
+| **Languages(programming)** | JavaScript, Typescript,  Python             | SQL        | Golang     |
+| **Frameworks/Platforms**   | NodeJS, ReactJS, NextJS, ExpressJS| Git, Redux, Django | VueJS |
+| **Languages(human)**       | English, Spanish                      |             | Chinese                        |
+| **Other interests**        | Pentesting, Learning | Videogames  | Hardware, Blockchain           |
 
 
 
