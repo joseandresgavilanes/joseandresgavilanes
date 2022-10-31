@@ -1,16 +1,15 @@
 <h1 align="center">
-  # Hi I'm Jose Andres Gavilanes | Smiley!
+Hi I'm Jose Andres Gavilanes | Smiley!
 </h1>
 <p align="center">
   <samp>
     :wave: I'm a software engineer | fullstack developer
     <br>Today, I'm still learning to make even better things :sparkles:<br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
-    <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/pifafu">Twitter</a>
   </samp>
 </p>
 
-![build: passing](https://img.shields.io/badge/build-passing-success) ![version :08.Oct.2021](https://img.shields.io/badge/version-08.Oct.2021-informational) [![license: feel free to ask about my repos](https://img.shields.io/badge/license-feel%20free%20to%20use%20my%20repos-success)](https://github.com/SheykoWk) [![website](https://img.shields.io/badge/website-informational)](https://SheykoWk.github.io)
+![build: passing](https://img.shields.io/badge/build-passing-success) ![version :08.Oct.2021](https://img.shields.io/badge/version-08.Oct.2021-informational) [![license: feel free to ask about my repos](https://img.shields.io/badge/license-feel%20free%20to%20use%20my%20repos-success)](https://github.com/joseandresgavilanes) [![website](https://img.shields.io/badge/website-informational)](https://joseandresgavilanes.github.io)
 
 <img src="./static/svg.svg"/>
 <center><img src="./static/logo.svg"></center>
