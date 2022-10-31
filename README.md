@@ -54,6 +54,8 @@ Hi I'm Jose Andres Gavilanes | Smiley!
 </div>
   
   
+  ![joseandresgavilanes's github stats](https://github-readme-stats.vercel.app/api?username=joseandresgavilanes&show_icons=true&title_color=c691e9&icon_color=88dcfe&bg_color=292d3e&text_color=ffffff) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joseandresgavilanes&theme=material-palenight&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+  
 ```javascript
 const aboutMe = {
   name: "José Andrés Gavilanes",
@@ -179,4 +181,3 @@ More certifications in my [LinkedIn](https://www.linkedin.com/in/sh3yk0/).
 ### Github Stats ⭐
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=joseandresgavilanes)
-![joseandresgavilanes's github stats](https://github-readme-stats.vercel.app/api?username=joseandresgavilanes&show_icons=true&title_color=c691e9&icon_color=88dcfe&bg_color=292d3e&text_color=ffffff) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joseandresgavilanes&theme=material-palenight&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
