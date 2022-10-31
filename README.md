@@ -9,10 +9,11 @@ Hi I'm Jose Andres Gavilanes | Smiley!
   </samp>
 </p>
 
-![build: passing](https://img.shields.io/badge/build-passing-success) ![version :08.Oct.2021](https://img.shields.io/badge/version-08.Oct.2021-informational) [![license: feel free to ask about my repos](https://img.shields.io/badge/license-feel%20free%20to%20use%20my%20repos-success)](https://github.com/joseandresgavilanes) [![website](https://img.shields.io/badge/website-informational)](https://joseandresgavilanes.github.io)
 
-<img src="./static/svg.svg"/>
-<center><img src="./static/logo.svg"></center>
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app//api/top-langs/?username=rickstaa&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
+</a>
 
 ```javascript
 const aboutMe = {
