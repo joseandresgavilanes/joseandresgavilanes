@@ -7,10 +7,8 @@ Hi I'm Jose Andres Gavilanes | Smiley!
     <br>Today, I'm still learning to make even better things :sparkles:<br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
   </samp>
-  <div align="justify">
   <a href="https://github.com/joseandresgavilanes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseandresgavilanes&layout=compact&langs_count=7&theme=transparent"/>
-</div>
 </p>
 
 
