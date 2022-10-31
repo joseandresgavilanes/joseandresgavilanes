@@ -44,6 +44,15 @@ Hi I'm Jose Andres Gavilanes | Smiley!
   </div>
  
 
+ ## Stats:
+ 
+<div align="justify">
+  <a href="https://github.com/Nancaro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nancaro&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nancaro&layout=compact&langs_count=7&theme=transparent"/>
+</div>
+  
+  
 ```javascript
 const aboutMe = {
   name: "José Andrés Gavilanes",
