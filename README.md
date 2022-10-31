@@ -7,13 +7,12 @@ Hi I'm Jose Andres Gavilanes | Smiley!
     <br>Today, I'm still learning to make even better things :sparkles:<br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
   </samp>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app//api/top-langs/?username=rickstaa&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
 </p>
 
 
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app//api/top-langs/?username=rickstaa&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
-</a>
+
 
 ```javascript
 const aboutMe = {
