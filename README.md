@@ -13,9 +13,9 @@ Hi I'm Jose Andres Gavilanes | Smiley!
 
 
 ## Skills:
+  <div>
   <a href="https://github.com/joseandresgavilanes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseandresgavilanes&layout=compact&langs_count=7&theme=transparent"/>
-  <div> 
   <a href="Python" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
   <a href="HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
   <a href="CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
