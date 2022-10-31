@@ -17,7 +17,7 @@ Hi I'm Jose Andres Gavilanes | Smiley!
 <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app//api?username=joseandresgavilanes&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Github stats" />
 </a>
 </div>
-
+ ![Snake animation](https://github.com/Nancaro/Nancaro/blob/output/github-contribution-grid-snake.svg)
 ## Skills:
   <div> 
   <a href="Python" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
