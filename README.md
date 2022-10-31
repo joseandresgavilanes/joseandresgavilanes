@@ -33,11 +33,13 @@ Hi I'm Jose Andres Gavilanes | Smiley!
   
 </div>
 
-
-
-<a href="https://github.com/joseandresgavilanes">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseandresgavilanes&layout=compact&langs_count=7&theme=transparent"/>
+<div align="center">
+  <a href="https://github.com/joseandresgavilanes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseandresgavilanes&layout=compact&langs_count=7&theme=transparent"/>
  
+
+</div>
+
 
  ## Stats:
  
