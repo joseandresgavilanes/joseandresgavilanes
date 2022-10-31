@@ -24,7 +24,7 @@ Hi I'm Jose Andres Gavilanes | Smiley!
   <a href="Tailwind" target="_blank"><img src="https://img.shields.io/badge/Tailwindcss-4FA095?style=for-the-badge&logo=tailwindcss&logoColor=white" target="_blank"></a>
   <a href="NodeJS" target="_blank"><img src="https://img.shields.io/badge/NodeJS-54B435?style=for-the-badge&logo=nodejs&logoColor=white" target="_blank"></a>
   <a href="Express" target="_blank"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" target="_blank"></a>
-  <a href="CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
+  <a href="C" target="_blank"><img src="https://img.shields.io/badge/C-1572B6?style=for-the-badge&logo=c&logoColor=white" target="_blank"></a>
   <a href="Python" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
   <a href="GO" target="_blank"><img src="https://img.shields.io/badge/Go-81C6E8?style=for-the-badge&logo=go&logoColor=black" target="_blank"></a>
   <a href="Bootstrap" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"></a>
