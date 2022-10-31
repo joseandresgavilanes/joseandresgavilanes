@@ -10,12 +10,8 @@ Hi I'm Jose Andres Gavilanes | Smiley!
 </p>
 
 <div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app//api/top-langs/?username=joseandresgavilanes&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app//api?username=joseandresgavilanes&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Github stats" />
-</a>
+<a href="https://github.com/joseandresgavilanes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseandresgavilanes&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
 
 
@@ -47,12 +43,6 @@ Hi I'm Jose Andres Gavilanes | Smiley!
 
  ## Stats:
  
-<div align="justify">
-  <a href="https://github.com/joseandresgavilanes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseandresgavilanes&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseandresgavilanes&layout=compact&langs_count=7&theme=transparent"/>
-</div>
-  
   
   ![joseandresgavilanes's github stats](https://github-readme-stats.vercel.app/api?username=joseandresgavilanes&show_icons=true&title_color=c691e9&icon_color=88dcfe&bg_color=292d3e&text_color=ffffff) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joseandresgavilanes&theme=material-palenight&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
   
