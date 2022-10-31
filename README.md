@@ -1,8 +1,9 @@
-# Hi I'm Smiley!
-
+<h1 align="center">
+  # Hi I'm Jose Andres Gavilanes | Smiley!
+</h1>
 <p align="center">
   <samp>
-    :wave: Hi! I'm a software engineer | fullstack developer
+    :wave: I'm a software engineer | fullstack developer
     <br>Today, I'm still learning to make even better things :sparkles:<br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
     <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/pifafu">Twitter</a>
