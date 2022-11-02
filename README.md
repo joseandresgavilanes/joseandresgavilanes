@@ -43,10 +43,11 @@ Hi I'm Jose Andres Gavilanes | Smiley!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseandresgavilanes&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
-
+<div align="center">
  ## Stats:
  ![joseandresgavilanes's github stats](https://github-readme-stats.vercel.app/api?username=joseandresgavilanes&show_icons=true&title_color=c691e9&icon_color=88dcfe&bg_color=292d3e&text_color=ffffff) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joseandresgavilanes&theme=material-palenight&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-  
+
+  </div>
  
   
 ```javascript
