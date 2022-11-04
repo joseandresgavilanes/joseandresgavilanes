@@ -107,7 +107,7 @@ I'm an aspiring developer who loves to take on new projects that challenges his 
 
 ```shell
 echo "Reach out to me on any of the links above"
-echo "Do check my website https://sheykowk.github.io for more info"
+echo "Do check my website ___ for more info"
 ```
 
 ### Work experience 👔
@@ -117,59 +117,23 @@ echo "Do check my website https://sheykowk.github.io for more info"
 | **Apprenticeship**         | **Academlo** | **Full-Stack Bootcamp**           | **01.03.2021 — until now** |
 | Full Stack Web Developer   | Ruva Design  | Marketing and Social Media Agency | 25.03.2020 — 25.10.2021    |
 
-More about work experience in my [LinkedIn](https://www.linkedin.com/in/sh3yk0/)
-
 
 ### Certifications 📜
 
 #### FrontEnd
 
-- [Responsive Web Design](https://www.freecodecamp.org/certification/sheykowk/responsive-web-design) @ FreeCodeCamp
-- [Front End Development Libreries](https://www.freecodecamp.org/certification/sheykowk/front-end-development-libraries) @ FreeCodeCamp
-- [JavaScript Engine (V8) and Browser](https://platzi.com/p/sheyko-kh/curso/1798-course/diploma/detalle/) @ Platzi
 
 ### BackEnd
 
-- [Introduction to Backend Development](https://platzi.com/p/sheyko-kh/curso/2508-course/diploma/detalle/) @ Platzi
-
-### Cybersecurity
-
-- [Learn Computer Security](https://platzi.com/p/sheyko-kh/curso/2241-course/diploma/detalle/) @ Platzi
-
-### Data Science & Machine Learning
-- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/sheykowk/javascript-algorithms-and-data-structures) @ FreeCodeCamp
-- [Algorithms and Logical Thinking](https://platzi.com/p/sheyko-kh/curso/2218-pensamiento-logico/diploma/detalle/) @ Platzi
 
 
 #### DevOps
 
 - [Basic Computer](https://platzi.com/p/sheyko-kh/curso/1741-course/diploma/detalle/) @ Platzi
-- [Software Engineering Fundamentals](https://platzi.com/p/sheyko-kh/curso/1098-course/diploma/detalle/) @ Platzi
-- [Terminal and Command Line](https://platzi.com/p/sheyko-kh/curso/2292-course/diploma/detalle/) @ Platzi
-- [Linux Development Environment Configuration](https://platzi.com/p/sheyko-kh/curso/2383-prework-linux/diploma/detalle/) @ Platzi
-- [Setting Up the Development Environment on macOS](https://platzi.com/p/sheyko-kh/curso/2214-prework-macos/diploma/detalle/) @ Platzi
-- [Windows Development Environment Configuration](https://platzi.com/p/sheyko-kh/curso/2042-prework-windows/diploma/detalle/) @ Platzi
-
-More certifications in my [LinkedIn](https://www.linkedin.com/in/sh3yk0/).
-
-### Hackathon participation 💻
-
-- [Hackathon Citibanamex 2020](https://raw.githubusercontent.com/joseandresgavilanes/joseandresgavilanes/main/static/certificado.png) Alzheimer's MRI Analysis
 
 
 
 <h2>💻 Some stats 💻</h2>
-
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
-
-<!-- START_SECTION:WAKA -->
-<!-- END_SECTION:WAKA -->
-
-# Todoist Stats
-
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
 
 ### Github Stats ⭐
 
