@@ -20,8 +20,8 @@ Hi I'm Jose Andres Gavilanes | Smiley!
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-  <a href="ReactJS" target="_blank"><img src="https://img.shields.io/badge/ReactJS-47B5FF?style=for-the-badge&logo=react&logoColor=black" target="_blank"></a>
-  <a href="Nextjs" target="_blank"><img src="https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=nextjs&logoColor=black" target="_blank"></a>
+  ![graphql](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
+![three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
   <a href="TypeScript" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"></a>
   <a href="JS" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
   <a href="HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
@@ -36,8 +36,13 @@ Hi I'm Jose Andres Gavilanes | Smiley!
   <a href="Bootstrap" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"></a>
   <a href="MYSQL" target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
   <a href="PostgreSQL" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-3E6D9C?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank"></a>
+  
   <a href="MongoDB" target="_blank"><img src="https://img.shields.io/badge/MongoBD-54B435?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"></a>
-  <a href="Heroku" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" target="_blank"></a>
+![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
+![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
+![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)  
+  ![mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
   <a href="Linux" target="_blank"><img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" target="_blank"></a>
   <a href="Windows" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
 </div>
