@@ -36,7 +36,6 @@ Hi I'm Jose Andres Gavilanes | Smiley!
   <a href="Bootstrap" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"></a>
   <a href="MYSQL" target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
   <a href="PostgreSQL" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-3E6D9C?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank"></a>
-  
   <a href="MongoDB" target="_blank"><img src="https://img.shields.io/badge/MongoBD-54B435?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"></a>
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
