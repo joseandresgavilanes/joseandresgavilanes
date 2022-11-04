@@ -14,6 +14,12 @@ Hi I'm Jose Andres Gavilanes | Smiley!
 
 ## Skills:
   <div align="center">
+  
+  ![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
   <a href="ReactJS" target="_blank"><img src="https://img.shields.io/badge/ReactJS-47B5FF?style=for-the-badge&logo=react&logoColor=black" target="_blank"></a>
   <a href="Nextjs" target="_blank"><img src="https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=nextjs&logoColor=black" target="_blank"></a>
   <a href="TypeScript" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"></a>
