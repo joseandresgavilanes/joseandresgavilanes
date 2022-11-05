@@ -44,6 +44,8 @@ Hi I'm Jose Andres Gavilanes | Smiley!
   ![mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
   <a href="Linux" target="_blank"><img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" target="_blank"></a>
   <a href="Windows" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
+![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 </div>
 
 
