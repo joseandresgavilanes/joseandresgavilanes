@@ -67,7 +67,7 @@ const aboutMe = {
   name: "José Andrés Gavilanes",
   nickName: ["Smiley", "Pepe"],
   pronouns: "he" || "him",
-  code: [Javascript, Typescript, Golang, HTML, CSS, Python],
+  code: [Javascript, Typescript, Golang, HTML, CSS, SASS, Python],
   technologies: {
     frontEnd: {
       js: ["ReactJS", "NextJS", "React Native", "Redux", "React Router", "Axios"],
@@ -101,9 +101,6 @@ I'm an aspiring developer who loves to take on new projects that challenges his 
 
 
 - I’m currently learning a bit of cybersecurity and new technologies.
-- I can help you with career guidance.
-- I enjoy rollerblanding arround the city and parks
-- I love all kind of tacos 🥴🌮
 ### Skills 🛠️
 
 
@@ -141,8 +138,7 @@ echo "Do check my website ___ for more info"
 
 
 #### DevOps
-
-- [Basic Computer](https://platzi.com/p/sheyko-kh/curso/1741-course/diploma/detalle/) @ Platzi
+[- [Basic Computer](https://platzi.com/p/sheyko-kh/curso/1741-course/diploma/detalle/) @ Platzi](url)
 
 
 
