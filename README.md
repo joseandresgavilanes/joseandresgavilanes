@@ -7,6 +7,7 @@ Hi I'm Jose Andres Gavilanes | Smiley!
     <br>Today, I'm still learning to make even better things :sparkles:<br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
   </samp>
+  <img style="float: right" alt="GIF"  width="400"  height="350"  src="https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
 </p>
 
 
