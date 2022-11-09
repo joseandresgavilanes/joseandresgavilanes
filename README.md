@@ -40,6 +40,7 @@ Hi I'm Jose Andres Gavilanes | Smiley!
 <a href="MongoDB" target="_blank"><img src="https://img.shields.io/badge/MongoBD-54B435?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"></a>
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
+![docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=Docker&logoColor=white)
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)  
 ![mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
