@@ -34,6 +34,9 @@ Hi I'm Jose Andres Gavilanes | Smiley!
   <a href="Python" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
   <a href="GO" target="_blank"><img src="https://img.shields.io/badge/Go-81C6E8?style=for-the-badge&logo=go&logoColor=black" target="_blank"></a>
   <a href="Bootstrap" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"></a>
+  ![Java](https://img.shields.io/badge/Java-ffaa00?style=for-the-badge&logo=Java&logoColor=white)
+  ![Spirng](https://img.shields.io/badge/Spirng-ffaa00?style=for-the-badge&logo=Spirng&logoColor=white)
+  ![SpirngBoot](https://img.shields.io/badge/SpirngBoot-ffaa00?style=for-the-badge&logo=SpirngBoot&logoColor=white)
   <a href="MYSQL" target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
   <a href="PostgreSQL" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-3E6D9C?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank"></a>
 <a href="MongoDB" target="_blank"><img src="https://img.shields.io/badge/MongoBD-54B435?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"></a>
