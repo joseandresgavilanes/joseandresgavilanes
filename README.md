@@ -80,7 +80,7 @@ const aboutMe = {
       python: ["Django"],
       js: ["NodeJS", "Expressjs"],
     },
-    databases: ["MongoDB", "PostgreSQL"],
+    databases: ["MongoDB", "PostgreSQL", "MySQL"],
   },
   currentOccupation: ["open for job opportunities"],
   challenge: "I'm working every day on becoming a better person and programmer.",
