@@ -2,10 +2,10 @@
 Hi I'm Jose Andres Gavilanes | Smiley!
 </h1>
 
+:wave: I'm a software engineer | fullstack developer
 
 <p align="center">
   <samp>
-    :wave: I'm a software engineer | fullstack developer
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
   </samp>
   <img style="float: right" alt="GIF"  width="240px"  height="240px"  src="https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
