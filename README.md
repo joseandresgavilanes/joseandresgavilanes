@@ -3,22 +3,15 @@ Hi I'm Jose Andres Gavilanes | Smiley!
 </h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-  <br><br>
   <samp>
     :wave: 👋 I'm a software engineer | fullstack developer
     <br>Today, I'm still learning to make things even better things<br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
-    <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/pifafu">Twitter</a>
+    <img style="float: right" alt="GIF"  width="240px"  height="240px"  src="https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
   </samp>
 </p>
 
-<p align="center">
-  <samp>
-    <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
-  </samp>
-  <img style="float: right" alt="GIF"  width="240px"  height="240px"  src="https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
-</p>
+
 
 
 
