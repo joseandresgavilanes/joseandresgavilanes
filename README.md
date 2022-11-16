@@ -119,34 +119,6 @@ I'm an aspiring developer who loves to take on new projects that challenges his 
 
 
 
-## How to run
-
-```shell
-echo "Reach out to me on any of the links above"
-echo "Do check my website ___ for more info"
-```
-
-### Work experience 👔
-
-| Job Position               | Company      | Field                             | Work Period                |
-| -------------------------- | ------------ | --------------------------------- | -------------------------- |
-| **Apprenticeship**         | **Academlo** | **Full-Stack Bootcamp**           | **01.03.2021 — until now** |
-| Full Stack Web Developer   | Ruva Design  | Marketing and Social Media Agency | 25.03.2020 — 25.10.2021    |
-
-
-### Certifications 📜
-
-#### FrontEnd
-
-
-### BackEnd
-
-
-
-#### DevOps
-[- [Basic Computer](https://platzi.com/p/sheyko-kh/curso/1741-course/diploma/detalle/) @ Platzi](url)
-
-
 
 <h2>💻 Some stats 💻</h2>
 
