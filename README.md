@@ -5,7 +5,7 @@ Hi I'm Jose Andres Gavilanes | Smiley!
 <p align="center">
   <samp>
     :wave: 👋 I'm a software engineer | fullstack developer
-    <br>Today, I'm still learning to make things even better things<br>
+    <br>Today, I'm focused on changing the world with technology<br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
     <img style="float: right" alt="GIF"  width="240px"  height="240px"  src="https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
   </samp>
