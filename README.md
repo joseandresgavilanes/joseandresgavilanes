@@ -2,6 +2,9 @@
 Hi I'm Jose Andres Gavilanes | Smiley!!
 </h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joseandresgavilanes&label=Profile%20views&color=0e75b6&style=flat" alt="joseandresgavilaneslabel" /> </p>
+
+
 <p align="center">
   <samp>
     :wave: 👋 I'm a software engineer & fullstack developer
