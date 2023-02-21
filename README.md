@@ -1,12 +1,11 @@
 <h1 align="center">
 Hi I'm Jose Andres Gavilanes | Smiley!!
+![psoywh](https://user-images.githubusercontent.com/76002851/220247850-9375eec0-91cb-4924-a1d6-ea90c803ac32.png)
 </h1>
 
 
 <p align="center">
   <samp>
-   
-    ![psoywh](https://user-images.githubusercontent.com/76002851/220247850-9375eec0-91cb-4924-a1d6-ea90c803ac32.png)
     :wave: 👋 I'm a software engineer & fullstack developer!
     <br>Today, I'm focused on changing the world with technology and innovation<br>
     <br/>
