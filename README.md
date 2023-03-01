@@ -5,12 +5,6 @@ Hi I'm Jose Andres Gavilanes | Smiley!!
   
 </h1>
 
-
-![uwp1653127](https://user-images.githubusercontent.com/76002851/222035742-5dc515fa-b02c-4f2d-a7e2-166b5e301724.gif)
-
-
-
-
 <p align="center">
   <samp>
     :wave: 👋 I'm a software engineer & fullstack developer!
