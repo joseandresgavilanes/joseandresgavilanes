@@ -85,11 +85,7 @@ const aboutMe = {
 ```
 
 ## Abstract
-
-I'm an aspiring developer who loves to take on new projects that challenges his analytical and technological capacities.
-
-
-- I’m currently learning a bit of cybersecurity and new technologies.
+- I’m currently learning cybersecurity, artificial intelligence, and new technologies.
 ### Skills 🛠️
 
 
