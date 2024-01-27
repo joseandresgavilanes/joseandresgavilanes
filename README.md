@@ -17,7 +17,8 @@ Hey! I'm Jose Andres Gavilanes | Smiley
   </samp>
 </p>
 
-<div style="float: left"  width="240px"  height="240px">
+<p style="float: left"  width="240px"  height="240px">
+    <img style="float: right" alt="GIF"  width="240px"  height="240px"  src="https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
 
   ![3Nbka0](https://github.com/joseandresgavilanes/joseandresgavilanes/assets/76002851/ba02241d-1a1c-4b4d-9196-9fd10261981f)
 
