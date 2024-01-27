@@ -86,6 +86,22 @@ const aboutMe = {
 };
 ```
 
+## Top Projects:
+  
+1. **[Project 1](link_to_project_1)** - Brief description of Project 1
+   
+   ![Arrows](url_to_image_with_arrows)
+   
+2. **[Project 2](link_to_project_2)** - Brief description of Project 2
+   
+   ![Arrows](url_to_image_with_arrows)
+   
+3. **[Project 3](link_to_project_3)** - Brief description of Project 3
+   
+   ![Arrows](url_to_image_with_arrows)
+
+<div align="center">
+
 ## Abstract
 - I’m currently learning cybersecurity, artificial intelligence, and new technologies.
 ### Skills 🛠️
@@ -97,6 +113,10 @@ const aboutMe = {
 | **Frameworks/Platforms**   | NodeJS, ReactJS, NextJS, ExpressJS| Git, Redux, Django | VueJS |
 | **Languages(human)**       | English, Spanish                      |             | Chinese                        |
 | **Other interests**        | Pentesting, Learning | Videogames  | Hardware, Blockchain           |
+
+
+
+
 
 
 
