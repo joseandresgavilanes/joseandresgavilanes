@@ -17,8 +17,10 @@ Hey! I'm Jose Andres Gavilanes | Smiley
   </samp>
 </p>
 
+<div style="float: left"  width="240px"  height="240px">
+  ![3Nbka0](https://github.com/joseandresgavilanes/joseandresgavilanes/assets/76002851/ba02241d-1a1c-4b4d-9196-9fd10261981f)
 
-![3Nbka0](https://github.com/joseandresgavilanes/joseandresgavilanes/assets/76002851/ba02241d-1a1c-4b4d-9196-9fd10261981f)
+</div>
 
 
 
