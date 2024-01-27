@@ -12,6 +12,9 @@ Hey! I'm Jose Andres Gavilanes | Smiley
     <br/>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
     <img style="float: right" alt="GIF"  width="240px"  height="240px"  src="https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
+    <br>Let's improve the world together: https://www.linkedin.com/in/jose-andres-gavilanes-2954691b5/
+    <br>Check my portfolio! https://jose-andres-gavilanes.vercel.app/
+    <br/>
   </samp>
 </p>
 
