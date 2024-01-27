@@ -14,12 +14,8 @@ Hey! I'm Jose Andres Gavilanes | Smiley
     <br/>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
     <img style="float: right" alt="GIF"  width="240px"  height="240px"  src="https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
- 
   </samp>
 </p>
-<div align="center">
-   <img style="float: left" alt="GIF"  width="240px"  height="240px"  src="https://github.com/joseandresgavilanes/joseandresgavilanes/assets/76002851/ba02241d-1a1c-4b4d-9196-9fd10261981f">
-</div>
 
 ## Skills:
   <div align="center">
@@ -44,8 +40,9 @@ Hey! I'm Jose Andres Gavilanes | Smiley
 </div>
 
 
-![pixel-jeff-clipa-s](https://github.com/joseandresgavilanes/joseandresgavilanes/assets/76002851/ed649ca7-3885-44a6-83f4-45bb2ac9cde0)
-
+<div align="center">
+   <img style="float: left" alt="GIF"  width="240px"  height="240px"  src="https://github.com/joseandresgavilanes/joseandresgavilanes/assets/76002851/ba02241d-1a1c-4b4d-9196-9fd10261981f">
+</div>
 
 
  ## Stats:
