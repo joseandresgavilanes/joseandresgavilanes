@@ -101,9 +101,12 @@ const aboutMe = {
 | **Other interests**        | Pentesting, Learning | Videogames  | Hardware, Blockchain           |
 
 <h2>💻 Some stats 💻</h2>
+<div align="center">
+![image](https://github.com/joseandresgavilanes/joseandresgavilanes/assets/76002851/e0b923a7-112b-4291-9a89-176ffeb0b12b)
+
 
 ### Github Stats ⭐
-
+<div align="center">
 ![trophy](https://github-profile-trophy.vercel.app/?username=joseandresgavilanes)
 
 <div align="center">
