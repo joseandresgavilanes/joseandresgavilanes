@@ -100,7 +100,7 @@ const aboutMe = {
 | **Languages(human)**       | English, Spanish                      |             | Chinese                        |
 | **Other interests**        | Pentesting, Learning | Videogames  | Hardware, Blockchain           |
 
-<img src="https://www.minecraftskins.com/uploads/preview-skins/2023/12/16/ecuador-flag-22186495.png?v609">
+<img width="100%"  height="240px" src="https://www.minecraftskins.com/uploads/preview-skins/2023/12/16/ecuador-flag-22186495.png?v609">
 
 <h2>💻 Some stats 💻</h2>
 ### Github Stats ⭐
