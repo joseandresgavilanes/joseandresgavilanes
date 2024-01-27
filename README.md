@@ -105,7 +105,7 @@ const aboutMe = {
 
 
 <h2>💻 Some stats 💻</h2>
-### Github Stats ⭐
+## Github Stats ⭐
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=joseandresgavilanes)
 
