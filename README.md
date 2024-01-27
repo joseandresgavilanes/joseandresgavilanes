@@ -2,8 +2,6 @@
 Hey! I'm Jose Andres Gavilanes | Smiley
   
 ![psoywh](https://user-images.githubusercontent.com/76002851/220247850-9375eec0-91cb-4924-a1d6-ea90c803ac32.png)
-![Diseño sin título](https://github.com/joseandresgavilanes/joseandresgavilanes/assets/76002851/aec951e0-a215-4f80-8870-6ca53e04200d)
-
 </h1>
 
 
