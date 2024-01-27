@@ -14,6 +14,7 @@ Hey! I'm Jose Andres Gavilanes | Smiley
     <br/>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
     <img style="float: right" alt="GIF"  width="240px"  height="240px"  src="https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
+    <img style="float: left" alt="GIF"  width="240px"  height="240px"  src="[https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif](https://img.itch.zone/aW1hZ2UvODE0OTA4LzUwNTQ3MDMuZ2lm/original/3Nbka0.gif)">
   </samp>
 </p>
 
