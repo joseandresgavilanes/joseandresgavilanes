@@ -43,6 +43,7 @@ Hey! I'm Jose Andres Gavilanes | Smiley
 
 
  ## Stats:
+ </br>
 <div align="center">
     <img  src="https://github.com/joseandresgavilanes/joseandresgavilanes/assets/76002851/582dcc5b-f28d-4a96-b676-9bb42159eccf">
 </div>
