@@ -45,7 +45,7 @@ Hey! I'm Jose Andres Gavilanes | Smiley
 </div>
 
 
-![image](https://github.com/joseandresgavilanes/joseandresgavilanes/assets/76002851/4e203dca-9a77-4611-9b44-8344397a6a61)
+![pixel-jeff-clipa-s](https://github.com/joseandresgavilanes/joseandresgavilanes/assets/76002851/ed649ca7-3885-44a6-83f4-45bb2ac9cde0)
 
 
 
@@ -108,6 +108,6 @@ const aboutMe = {
 <div align="center">
 # Top Projects
   
-![image](https://github.com/joseandresgavilanes/joseandresgavilanes/assets/76002851/6a997da0-c43d-42cc-a637-8c7e736280ef)
+![4i9pLRr5T](https://github.com/joseandresgavilanes/joseandresgavilanes/assets/76002851/b6e14d7c-d673-4d6a-a5f3-e013e8bf7ef1)
 
 
