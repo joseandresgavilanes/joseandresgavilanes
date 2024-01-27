@@ -5,7 +5,7 @@ Hey! I'm Jose Andres Gavilanes | Smiley
 </h1>
 
 <div align="center">
-    <img style="float: right" alt="GIF"  width="240px"  height="240px"  src="https://github.com/joseandresgavilanes/joseandresgavilanes/assets/76002851/582dcc5b-f28d-4a96-b676-9bb42159eccf">
+    <img  src="https://github.com/joseandresgavilanes/joseandresgavilanes/assets/76002851/582dcc5b-f28d-4a96-b676-9bb42159eccf">
 </div>
 
 <p align="center">
