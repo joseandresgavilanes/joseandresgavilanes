@@ -40,11 +40,6 @@ Hey! I'm Jose Andres Gavilanes | Smiley
 </div>
 
 
-<div align="center">
-   <img style="float: left" alt="GIF"  width="240px"  height="240px"  src="https://github.com/joseandresgavilanes/joseandresgavilanes/assets/76002851/ba02241d-1a1c-4b4d-9196-9fd10261981f">
-</div>
-
-
  ## Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joseandresgavilanes&theme=material-palenight&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
@@ -82,6 +77,10 @@ const aboutMe = {
   },
 };
 ```
+
+<div align="center">
+   <img style="float: left" alt="GIF"  width="100%"  height="300px"  src="https://github.com/joseandresgavilanes/joseandresgavilanes/assets/76002851/ba02241d-1a1c-4b4d-9196-9fd10261981f">
+</div>
 
 ## Abstract
 - I’m currently learning cybersecurity, artificial intelligence, and new technologies.
