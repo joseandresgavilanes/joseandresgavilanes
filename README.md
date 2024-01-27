@@ -4,7 +4,9 @@ Hey! I'm Jose Andres Gavilanes | Smiley
 ![psoywh](https://user-images.githubusercontent.com/76002851/220247850-9375eec0-91cb-4924-a1d6-ea90c803ac32.png)
 </h1>
 
-
+<div align="center">
+    <img style="float: right" alt="GIF"  width="240px"  height="240px"  src="https://github.com/joseandresgavilanes/joseandresgavilanes/assets/76002851/582dcc5b-f28d-4a96-b676-9bb42159eccf">
+</div>
 
 <p align="center">
   <samp>
