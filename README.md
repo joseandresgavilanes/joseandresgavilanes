@@ -2,7 +2,8 @@
 Hey! I'm Jose Andres Gavilanes | Smiley
   
 ![psoywh](https://user-images.githubusercontent.com/76002851/220247850-9375eec0-91cb-4924-a1d6-ea90c803ac32.png)
-  <img src="https://www.minecraftskins.com/uploads/preview-skins/2023/12/16/ecuador-flag-22186495.png?v609">
+![ecuador-flag-22186495](https://github.com/joseandresgavilanes/joseandresgavilanes/assets/76002851/beb485b0-de01-40f6-980f-40d0bd12f576)
+
 
 </h1>
 
