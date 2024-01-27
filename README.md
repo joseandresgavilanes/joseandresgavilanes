@@ -1,3 +1,8 @@
+<div align="center">
+![5edcab6c24e3e6fc911d6de8549aaf98](https://github.com/joseandresgavilanes/joseandresgavilanes/assets/76002851/e63a181e-ab92-4d9b-967d-99f98d5c8384)
+</div>
+
+
 <h1 align="center">
 Hey! I'm Jose Andres Gavilanes | Smiley
   
