@@ -2,7 +2,8 @@
 Hey! I'm Jose Andres Gavilanes | Smiley
   
 ![psoywh](https://user-images.githubusercontent.com/76002851/220247850-9375eec0-91cb-4924-a1d6-ea90c803ac32.png)
-  
+  <img src="https://www.minecraftskins.com/uploads/preview-skins/2023/12/16/ecuador-flag-22186495.png?v609">
+
 </h1>
 
 <p align="center">
@@ -100,7 +101,6 @@ const aboutMe = {
 | **Languages(human)**       | English, Spanish                      |             | Chinese                        |
 | **Other interests**        | Pentesting, Learning | Videogames  | Hardware, Blockchain           |
 
-<img width="100%"  height="240px" src="https://www.minecraftskins.com/uploads/preview-skins/2023/12/16/ecuador-flag-22186495.png?v609">
 
 <h2>💻 Some stats 💻</h2>
 ### Github Stats ⭐
