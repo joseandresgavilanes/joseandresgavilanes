@@ -18,7 +18,7 @@ Hey! I'm Jose Andres Gavilanes | Smiley
   </samp>
 </p>
 <div align="center">
-![3Nbka0](https://github.com/joseandresgavilanes/joseandresgavilanes/assets/76002851/be44a180-ed86-46b8-a794-2586988c4d57)
+   <img style="float: left" alt="GIF"  width="240px"  height="240px"  src="https://github.com/joseandresgavilanes/joseandresgavilanes/assets/76002851/ba02241d-1a1c-4b4d-9196-9fd10261981f">
 </div>
 
 ## Skills:
