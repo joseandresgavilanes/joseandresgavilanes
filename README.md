@@ -45,6 +45,7 @@ Hey! I'm Jose Andres Gavilanes | Smiley
 </div>
 
 
+![image](https://github.com/joseandresgavilanes/joseandresgavilanes/assets/76002851/4e203dca-9a77-4611-9b44-8344397a6a61)
 
 
 
@@ -86,22 +87,6 @@ const aboutMe = {
 };
 ```
 
-## Top Projects:
-  
-1. **[Project 1](link_to_project_1)** - Brief description of Project 1
-   
-   ![Arrows](url_to_image_with_arrows)
-   
-2. **[Project 2](link_to_project_2)** - Brief description of Project 2
-   
-   ![Arrows](url_to_image_with_arrows)
-   
-3. **[Project 3](link_to_project_3)** - Brief description of Project 3
-   
-   ![Arrows](url_to_image_with_arrows)
-
-<div align="center">
-
 ## Abstract
 - I’m currently learning cybersecurity, artificial intelligence, and new technologies.
 ### Skills 🛠️
@@ -114,15 +99,15 @@ const aboutMe = {
 | **Languages(human)**       | English, Spanish                      |             | Chinese                        |
 | **Other interests**        | Pentesting, Learning | Videogames  | Hardware, Blockchain           |
 
-
-
-
-
-
-
-
 <h2>💻 Some stats 💻</h2>
 
 ### Github Stats ⭐
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=joseandresgavilanes)
+
+<div align="center">
+# Top Projects
+  
+![image](https://github.com/joseandresgavilanes/joseandresgavilanes/assets/76002851/6a997da0-c43d-42cc-a637-8c7e736280ef)
+
+
