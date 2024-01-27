@@ -10,7 +10,7 @@ Hey! I'm Jose Andres Gavilanes | Smiley
     :wave: 👋 I'm a software engineer & fullstack developer!
     <br>Today, I'm focused on changing the world with technology and innovation<br>
     <br>Let's improve the world together: https://www.linkedin.com/in/jose-andres-gavilanes-2954691b5/
-    <br>Check my portfolio! [https://www.linkedin.com/in/jose-andres-gavilanes-2954691b5/](https://jose-andres-gavilanes.vercel.app/)
+    <br>Check my portfolio! https://jose-andres-gavilanes.vercel.app/
     <br/>
     <br/>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
