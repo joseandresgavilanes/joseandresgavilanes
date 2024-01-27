@@ -46,6 +46,7 @@ Hey! I'm Jose Andres Gavilanes | Smiley
 <div align="center">
     <img  src="https://github.com/joseandresgavilanes/joseandresgavilanes/assets/76002851/582dcc5b-f28d-4a96-b676-9bb42159eccf">
 </div>
+</br>
 <div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joseandresgavilanes&theme=material-palenight&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
