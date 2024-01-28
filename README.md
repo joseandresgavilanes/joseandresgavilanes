@@ -111,7 +111,14 @@ const aboutMe = {
 
 <div align="center">
   
-# Top Projects
+## Top Projects
+<p align="center">
+  <samp>
+    :wave: These are some of the projects I am most proud of.
+    <br>I invite you to review them below and read the documentation presented in each one for more context<br>
+    <br>hope you enjoy them as much as I did!<br>
+  </samp>
+</p>
   
 ![4i9pLRr5T](https://github.com/joseandresgavilanes/joseandresgavilanes/assets/76002851/b6e14d7c-d673-4d6a-a5f3-e013e8bf7ef1)
 
