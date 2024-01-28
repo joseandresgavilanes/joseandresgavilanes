@@ -101,7 +101,7 @@ const aboutMe = {
 | **Languages(programming)** | JavaScript, Typescript,  Python             | SQL        | Golang     |
 | **Frameworks/Platforms**   | NodeJS, ReactJS, NextJS, ExpressJS| Git, Redux, Django | VueJS |
 | **Languages(human)**       | English, Spanish                      |             | Portuguese                        |
-| **Other interests**        | Pentesting, Learning | Videogames  | Hardware, Blockchain           |
+| **Other interests**        | Pentesting, Learning, AI | Videogames  | Hardware, Blockchain           |
 
 
 <h2>💻 Some stats 💻</h2>
