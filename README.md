@@ -116,7 +116,7 @@ const aboutMe = {
   <samp>
     :wave: These are some of the projects I am most proud of.
     <br>I invite you to review them below and read the documentation presented in each one for more context<br>
-    <br>hope you enjoy them as much as I did!<br>
+    <br>I hope you enjoy them as much as I did!<br>
   </samp>
 </p>
   
